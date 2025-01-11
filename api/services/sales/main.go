@@ -9,6 +9,8 @@ import (
 	"syscall"
 )
 
+var build = "develop"
+
 func main() {
 	var log *logger.Logger
 

@@ -1,0 +1,10 @@
+.circleci/
+.git/
+.dockerignore
+.gitignore
+api/programs/frontends/
+zarf/docker/
+zarf/k8s/
+LICENSE
+makefile
+README.md
